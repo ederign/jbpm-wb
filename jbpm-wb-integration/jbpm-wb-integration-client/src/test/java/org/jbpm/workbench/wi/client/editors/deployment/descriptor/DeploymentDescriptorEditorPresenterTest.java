@@ -16,8 +16,8 @@
 package org.jbpm.workbench.wi.client.editors.deployment.descriptor;
 
 import com.google.gwtmockito.GwtMockitoTestRunner;
+import org.guvnor.common.services.project.client.context.WorkspaceProjectContext;
 import org.guvnor.common.services.project.client.security.ProjectController;
-import org.guvnor.common.services.project.context.WorkspaceProjectContext;
 import org.guvnor.common.services.project.model.WorkspaceProject;
 import org.jboss.errai.ui.client.local.spi.TranslationService;
 import org.jbpm.workbench.wi.dd.service.DDEditorService;
